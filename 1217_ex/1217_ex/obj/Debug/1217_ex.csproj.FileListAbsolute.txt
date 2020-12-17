@@ -1,0 +1,7 @@
+D:\suyin\VisualStudio\1217_ex\1217_ex\obj\Debug\1217_ex.csprojAssemblyReference.cache
+D:\suyin\VisualStudio\1217_ex\1217_ex\obj\Debug\1217_ex.csproj.CoreCompileInputs.cache
+D:\suyin\VisualStudio\1217_ex\1217_ex\bin\Debug\1217_ex.exe.config
+D:\suyin\VisualStudio\1217_ex\1217_ex\bin\Debug\1217_ex.exe
+D:\suyin\VisualStudio\1217_ex\1217_ex\bin\Debug\1217_ex.pdb
+D:\suyin\VisualStudio\1217_ex\1217_ex\obj\Debug\1217_ex.exe
+D:\suyin\VisualStudio\1217_ex\1217_ex\obj\Debug\1217_ex.pdb

@@ -1,0 +1,7 @@
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\bin\Debug\1217_ex4.exe.config
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\bin\Debug\1217_ex4.exe
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\bin\Debug\1217_ex4.pdb
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\obj\Debug\1217_ex4.csprojAssemblyReference.cache
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\obj\Debug\1217_ex4.csproj.CoreCompileInputs.cache
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\obj\Debug\1217_ex4.exe
+D:\suyin\VisualStudio\1217_ex4\1217_ex4\obj\Debug\1217_ex4.pdb
