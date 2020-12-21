@@ -1,0 +1,12 @@
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\bin\Debug\BurgerMenu.exe.config
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\bin\Debug\BurgerMenu.exe
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\bin\Debug\BurgerMenu.pdb
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.csprojAssemblyReference.cache
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.FirstCustomControl.resources
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.Form1.resources
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.Properties.Resources.resources
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.csproj.GenerateResource.cache
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.csproj.CoreCompileInputs.cache
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.exe
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.pdb
+C:\Users\Note Book\Desktop\20201212\VisualStudio\BurgerMenu\BurgerMenu\obj\Debug\BurgerMenu.MySecondCustomControl.resources
